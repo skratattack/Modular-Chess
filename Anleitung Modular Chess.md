@@ -476,7 +476,7 @@ f3>d2=S ...  (Springer f3 überträgt Springer-Modul auf Bauer d2 → Bauer f3, 
 Die Figuren für Modular Chess können mit einem handelsüblichen 3D-Drucker
 hergestellt werden. Die druckfertigen Dateien (STL) sind hier verfügbar:
 
-🔗 **[Modular Chess auf MakerWorld](https://makerworld.com/de/models/DEIN-LINK)**
+🔗 **[Modular Chess auf MakerWorld](https://makerworld.com/de/models/2872599-modular-chess#profileId-3207336)**
 
 ---
 

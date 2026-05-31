@@ -472,7 +472,7 @@ the module tile.
 The pieces for Modular Chess can be produced with a standard 3D printer.
 The print-ready files (STL) are available here:
 
-📦 **[Modular Chess on MakerWorld](https://makerworld.com/de/models/YOUR-LINK)**
+📦 **[Modular Chess on MakerWorld](https://makerworld.com/de/models/2872599-modular-chess#profileId-3207336)**
 
 ---
 
