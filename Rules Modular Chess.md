@@ -63,8 +63,7 @@ maintains its structural stability.
 <!-- 📸 Figure 1: Base pawn with four slots – top view and side view -->
 <img src="img/01_grundbauer.png" width="200">
 
-*Fig. 1: The base pawn. Left: Top view with cross-shaped slot arrangement.
-Right: Side view.*
+*Fig. 1: The base pawn.*
 
 ### 2.2 The Module Tiles
 
