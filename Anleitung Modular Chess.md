@@ -64,8 +64,7 @@ sodass der Figurenkörper seine strukturelle Stabilität behält.
 <!-- 📸 Abbildung 1: Grundbauer mit vier Schlitzen – Draufsicht und Seitenansicht -->
 <img src="img/01_grundbauer.png" width="200">
 
-*Abb. 1: Der Grundbauer. Links: Draufsicht mit kreuzförmiger Schlitzanordnung.
-Rechts: Seitenansicht.*
+*Abb. 1: Der Grundbauer.*
 
 ### 2.2 Die Modulplättchen
 
