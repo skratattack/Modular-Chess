@@ -62,7 +62,8 @@ angeordnet sind. Die Schlitze sind in der Mitte **nicht** miteinander verbunden,
 sodass der Figurenkörper seine strukturelle Stabilität behält.
 
 <!-- 📸 Abbildung 1: Grundbauer mit vier Schlitzen – Draufsicht und Seitenansicht -->
-![Grundbauer mit Schlitzen](img/01_grundbauer.png)
+<img src="img/01_grundbauer.png" width="200">
+
 *Abb. 1: Der Grundbauer. Links: Draufsicht mit kreuzförmiger Schlitzanordnung.
 Rechts: Seitenansicht.*
 
@@ -80,9 +81,9 @@ Grundbauern geschoben werden können. Jedes Modulplättchen repräsentiert einen
 **Materialwert von 2 Punkten**.
 
 <!-- 📸 Abbildung 2: Springer-Modul und Läufer-Modul – Vorder- und Rückseite -->
-![Modulplättchen](img/02_modulplaettchen.png)
-*Abb. 2: Links: Springer-Modul (Vorder- und Rückseite). Rechts: Läufer-Modul
-(Vorder- und Rückseite).*
+<img src="img/02_modulplaettchen.png" width="200">
+
+*Abb. 2: Links: Läufer-Modul. Rechts: Springer-Modul.*
 
 ### 2.3 Figurenaufbau
 
@@ -94,8 +95,8 @@ klassischen Schachfiguren:
 | **Bauer** | Grundbauer (ohne Module) | 1 | – |
 | **Springer** | Grundbauer + 1 Springer-Modul | 3 (1+2) | Modul in einem Schlitz, Springerkopf nach außen sichtbar |
 | **Läufer** | Grundbauer + 1 Läufer-Modul | 3 (1+2) | Modul in einem Schlitz, Mitra nach außen sichtbar |
-| **Turm** | Grundbauer + 2 beliebige Modul | 5 (1+2+2) | Module um 180° gedreht in gegenüberliegende Schlitze |
-| **Dame** | Grundbauer + 4 beliebige Module | 9 (1+4×2) | Alle 4 Module an der Unterseite als „Stelzen" |
+| **Turm** | Grundbauer + 2 beliebige Module | 5 (1+2+2) | Module um 180° gedreht in gegenüberliegende Schlitze (Startaufstellung: 1S + 1L)|
+| **Dame** | Grundbauer + 4 beliebige Module | 9 (1+4×2) | Alle 4 Module an der Unterseite als „Stelzen"  (Startaufstellung: 2S + 2L)|
 | **König** | Klassische Figur (nicht modular) | – | Keine Module |
 
 #### Der Springer
@@ -105,7 +106,8 @@ gesteckt. Die resultierende Figur ist durch den erkennbaren Springerkopf eindeut
 identifizierbar.
 
 <!-- 📸 Abbildung 3: Aufbau Springer -->
-![Springer](img/03_springer.png)
+<img src="img/03_springer.png" width="200">
+
 *Abb. 3: Zusammenbau eines Springers. Der Springerkopf ist als Silhouette klar
 erkennbar.*
 
@@ -115,7 +117,8 @@ Analog zum Springer wird ein Läufer-Modul mit der Mitra-Spitze nach außen in e
 Schlitz gesteckt.
 
 <!-- 📸 Abbildung 4: Aufbau Läufer -->
-![Läufer](img/04_laeufer.png)
+<img src="img/04_laeufer.png" width="200">
+
 *Abb. 4: Zusammenbau eines Läufers. Die Läuferspitze (Mitra) ist als Silhouette
 klar erkennbar.*
 
@@ -129,7 +132,8 @@ die Figur durch die gedrehte Einbaurichtung deutlich von Springer und Läufer.
 In der Startaufstellung bestehen alle Türme aus jeweils einem Springer- und einem Läufer-Modul.
 
 <!-- 📸 Abbildung 5: Aufbau Turm – mit Detailansicht der Rückseiten -->
-![Turm](img/05_turm.png)
+<img src="img/05_turm.png" width="200">
+
 *Abb. 5: Zusammenbau eines Turms. Die umgedrehten Module bilden durch ihre
 Rückseiten die Turm-Silhouette. Detail: Springerkopf zeigt nach innen,
 Turmzinne nach außen.*
@@ -140,13 +144,13 @@ Die Dame besteht aus allen vier Modulplättchen, die
 an der **Unterseite** des Grundbauern befestigt werden. Die Module werden verdreht
 angebracht und dienen als „Stelzen", wodurch die Dame deutlich höher steht als
 alle anderen Figuren und sofort erkennbar ist. Die Anordnung der Module an der
-Unterseite ist beliebig. In der Startaufstellung besthen die Damen jeweils aus
+Unterseite ist beliebig. In der Startaufstellung bestehen die Damen jeweils aus
 zwei Springer- und zwei Läufer-Modulen.
 
 <!-- 📸 Abbildung 6: Aufbau Dame -->
-![Dame](img/06_dame.png)
-*Abb. 6: Zusammenbau einer Dame. Die vier Module als „Stelzen" an der Unterseite
-heben die Figur deutlich vom Brett ab.*
+<img src="img/06_dame.png" width="200">
+
+*Abb. 6: Zusammenbau einer Dame. Die vier Module als „Stelzen" an der Unterseite heben die Figur deutlich vom Brett ab.*
 
 #### Der König
 
@@ -156,7 +160,8 @@ und nimmt nicht am Transformationssystem teil.
 ---
 
 <!-- 📸 Abbildung 7: Alle Figuren nebeneinander -->
-![Figurenübersicht](img/07_alle_figuren.png)
+<img src="img/07_alle_figuren.png" width="600">
+
 *Abb. 7: Alle Figurentypen im direkten Vergleich (v.l.n.r.): Bauer, Springer,
 Läufer, Turm, Dame, König.*
 
@@ -168,7 +173,8 @@ Die Startaufstellung ist **identisch zum klassischen Schach**. Alle Figuren steh
 in ihrer vollständig zusammengesetzten Form auf dem Brett.
 
 <!-- 📸 Abbildung 8: Startaufstellung -->
-![Startaufstellung](img/08_startaufstellung.png)
+<img src="img/08_startaufstellung.png" width="600">
+
 *Abb. 8: Startaufstellung. Identisch zum klassischen Schach.*
 
 ---
@@ -238,7 +244,8 @@ Der Läufer kann das Feld b3 diagonal erreichen.
 - Feld b3: Grundbauer + Springer-Modul + Läufer-Modul → **Turm**
 
 <!-- 📸 Abbildung 9: Beispiel Fusion -->
-![Beispiel Fusion](img/09_beispiel_fusion.png)
+<img src="img/09_beispiel_fusion.png" width="600">
+
 *Abb. 9: Transformation – Fusion. Der Läufer auf a2 überträgt sein Modul auf den
 Springer auf b3. Ergebnis: Bauer auf a2, Turm auf b3.*
 
@@ -262,7 +269,8 @@ beide Varianten vorerst identisch (beide Figuren sind Türme). Dies ändert sich
 und unterschiedliche Leichtfiguren zurückbleiben.
 
 <!-- 📸 Abbildung 10: Beispiel Aufspaltung -->
-![Beispiel Aufspaltung](img/10_beispiel_aufspaltung.png)
+<img src="img/10_beispiel_aufspaltung.png" width="600">
+
 *Abb. 10: Transformation – Aufspaltung. Die Dame auf d1 überträgt zwei Module
 auf den Bauern auf e2. Ergebnis: Zwei Türme.*
 
@@ -275,7 +283,8 @@ Die Dame könnte alle drei Felder erreichen.
 Es darf pro Zug nur **ein** Zielfeld gewählt werden.
 
 <!-- 📸 Abbildung 11: Gegenbeispiel -->
-![Gegenbeispiel](img/11_gegenbeispiel.png)
+<img src="img/11_gegenbeispiel.png" width="600">
+
 *Abb. 11: Verboten – Module dürfen nicht in einem Zug auf mehrere Felder
 verteilt werden.*
 
@@ -300,7 +309,8 @@ der Grundreihe erzeugen würde, ist nicht erlaubt.
 auf a2 abgeben, da auf a1 ein Bauer auf der eigenen Grundreihe entstehen würde.
 
 <!-- 📸 Abbildung 12: Gegenbeispiel Grundreihe -->
-![Gegenbeispiel Grundreihe](img/12_gegenbeispiel_grundreihe.png)
+<img src="img/12_gegenbeispiel_grundreihe.png" width="600">
+
 *Abb. 12: Verboten – Durch die Transformation würde ein Bauer auf der
 Grundreihe (a1) entstehen.*
 
@@ -322,11 +332,6 @@ theoretisch möglich (Umwandlung in Turm → Rückzug → Module übertragen →
 erneute Umwandlung). Der Zyklus ist jedoch deutlich abgeschwächt, da pro
 Umwandlung nur 2 Module statt 4 gewonnen werden und jeder Durchlauf
 mehrere Züge kostet – Tempo, das der Gegner nutzen kann.
-
-<!-- 📸 Abbildung 13: Bauernumwandlung -->
-![Bauernumwandlung](img/13_bauernumwandlung.png)
-*Abb. 13: Bauernumwandlung – maximal zum Turm. Der Bauer erhält bis zu zwei
-Modulplättchen.*
 
 ### 6.4 En passant
 
@@ -386,9 +391,9 @@ transferierte Module).
 | Turm a3, Turm d3 | 2 gemischte Module → d3 | `a3>d3=D` | Bauer a3, Dame d3 |
 | Turm a1, Bauer a2 | Springer-Modul → a2 | `a1>a2=S` | Läufer a1, Springer a2 |
 
-#### Pflichtangabe bei Damen/Turm-Aufspaltung
+#### Pflichtangabe bei mehrdeutigen Transformationen
 
-Wenn eine Dame aufgeteilt wird, **müssen** die übertragnen Module an
+Wenn eine Dame aufgeteilt wird, **müssen** die übertragenen Module an
 des Zielfeld angegeben werden. Dies ist spielrelevant, da sich Türme/Damen in
 späteren Zügen erneut aufteilen können und die entstehenden Leichtfiguren von
 der Modulzusammensetzung abhängen.
@@ -409,9 +414,9 @@ In diesem Fall muss auch das übertragene Modul in Klammern aufgeführt werden.
 |----------|----------|----------|
 | Dame d1(SSLL), Bauer e2 | `d1>e2=T(SS)` | Turm d1 (LL), Turm e2 (SS) |
 | Dame d1(SSLL), Bauer e2 | `d1>e2=T(SL)` | Turm d1 (SL), Turm e2 (SL) |
-| Dame d1(SSLL)) Bauer e2 | `d1>e2=T(LL)` | Turm d1 (SS), Turm e2 (LL) |
-| Dame d1(SSLL), Turm a1(SL) | `d1>a1=D(LL)` | Dame a1 (SLLL), Turm d1 (SS) |
-| Turm a1(SL), Läufer c1 | `a1>c1=T(L)` | Springer a1, Turm c1 (LL) |
+| Dame d1(SSLL) Bauer e2 | `d1>e2=T(LL)` | Turm d1 (SS), Turm e2 (LL) |
+| Dame b1(SSLL), Turm a1(SL) | `b1>a1=D(LL)` | Dame b1 (SLLL), Turm d1 (SS) |
+| Turm a1(SL), Läufer b1 | `a1>b1=T(L)` | Springer a1, Turm b1 (LL) |
 
 **Hinweis:** Bei allen anderen Transformationen ist die Modulzusammensetzung
 eindeutig und muss nicht angegeben werden.
@@ -424,7 +429,8 @@ Sf3 Sc6
 Lc4 Sf6
 f3>d2=S ...  (Springer f3 überträgt Springer-Modul auf Bauer d2 → Bauer f3, Springer d2)
 ```
-**Hinweis:** In so einem Fall können die Figuren auch vertauscht werde, anstatt das Modulplättchen umzustecken.
+**Hinweis:** In so einem Fall können die Figuren auch vertauscht werden, anstatt das Modulplättchen umzustecken.
+
 ---
 
 ## 8. Strategie-Tipps
@@ -461,14 +467,17 @@ f3>d2=S ...  (Springer f3 überträgt Springer-Modul auf Bauer d2 → Bauer f3, 
 | Grundbauern | 30 |
 | Springer-Module | 12 |
 | Läufer-Module | 12 |
-| Schachbrett (Standard, 8×8, Feldgröße: 4-6cm) | 1 |
+| Schachbrett 8x8 (Feldgröße: 4-6cm) | 1 |
 
 **Gesamtzahl Module:** 24  
 **Gesamtzahl Figuren-Körper:** 32 (wie beim klassischen Schach)
 
-<!-- 📸 Abbildung 14: Alle Komponenten -->
-![Lieferumfang](img/14_lieferumfang.png)
-*Abb. 14: Vollständiger Lieferumfang – alle Komponenten ausgebreitet.*
+## 3D-Druck
+
+Die Figuren für Modular Chess können mit einem handelsüblichen 3D-Drucker
+hergestellt werden. Die druckfertigen Dateien (STL) sind hier verfügbar:
+
+🔗 **[Modular Chess auf MakerWorld](https://makerworld.com/de/models/DEIN-LINK)**
 
 ---
 
