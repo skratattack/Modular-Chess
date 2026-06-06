@@ -480,6 +480,8 @@ hergestellt werden. Die druckfertigen Dateien (STL) sind hier verfügbar:
 
 🔗 **[Modular Chess auf MakerWorld](https://makerworld.com/de/models/2872599-modular-chess#profileId-3207336)**
 
+<img src="img/13_3dPrint.jpg" width="600">
+
 ---
 
 ## Changelog
