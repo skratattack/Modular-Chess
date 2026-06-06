@@ -1,3 +1,5 @@
+<img src="img/00_Titel.png" width="800">
+
 # Modular Chess – Anleitung
 
 **Version:** 1.0  
